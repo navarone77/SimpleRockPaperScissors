@@ -19,7 +19,7 @@ Free and Open source, enjoy.
 ## Links
 
 [WebGL Demo](https://navarone77.github.io/navarone77/RandomImgWebGL/)
-[Android APK](https://navarone77.github.io/navarone77/RandomImgWebGL/)
+[Android APK](https://github.com/navarone77/SimpleRockPaperScissors/releases/tag/apk)
 
 ## Info
 
